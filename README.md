@@ -46,15 +46,15 @@ Dataset → Preprocessing → Feature Engineering → Model Training → Evaluat
 
 ## Trained Model
 
-the trained Random Forest model file is provided seperately because the file size exceeds the Github upload limit.
+the trained Gradient Boosting Regressor model file is provided seperately because the file size exceeds the Github upload limit.
 
 Download the trained model here:
 
-https://drive.google.com/file/d/19OU3WK6DkLs12bmZC2Jkseg8qc3jIu9I/view?usp=sharing
+https://drive.google.com/file/d/1-DlEDaJad7f_mElR-rwhInqwKfWQv8Xm/view?usp=sharing
 
 After downloading, place the file in:
 
-models/random_forest_model.pkl
+models/Gradient_Boosting_model.pkl
 
 The model can be loaded using:
 
